@@ -1,7 +1,5 @@
 ### Hi, welcome to my Github 👋
 
-Gmail Badge Linkedin Badge Twitter Badge Instagram Badge
-
 - 💻 I work with the best team of developers at ACCT.
 - 🌱 I’m currently learning React, Node and React Native.
 - 📍  From São Paulo, Brazil ...
