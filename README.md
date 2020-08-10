@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React, Node and React Native.
 - 📍  From São Paulo, Brazil ...
 - 🚀 Willing to learn and contribute to JavaScript open source projects
+- 📘 Graduating at the Instituto Federal de São Paulo (Federal Institute of São Paulo)
 
 Contact me 
 
