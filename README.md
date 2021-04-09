@@ -1,5 +1,3 @@
-### fala tu 🤙
-
 - 💻 I’m currently learning ReactJS, Node and React Native (and I want to explore Kotlin in the future).
 - 🌎 From São Paulo, Brazil ...
 - 🚀 Willing to learn and contribute to JavaScript open source projects
