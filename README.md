@@ -1,6 +1,9 @@
 💻 Web development is art.
+
 ✨ Front end engineer at C&A.
+
 👨🏻‍💻 React, TypeScript and JavaScript.
+
 🎧 Love Music, Games and Sports. 
 
 
